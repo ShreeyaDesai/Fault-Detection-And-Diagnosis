@@ -1,4 +1,4 @@
-package com.example.priya.reciever;
+package com.example.shreeya.reciever;
 
 /*A code from www.bipinrupadiya.com*/
 public class M
