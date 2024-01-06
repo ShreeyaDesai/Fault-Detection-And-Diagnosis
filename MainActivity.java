@@ -1,4 +1,4 @@
-package com.example.priya.reciever;
+package com.example.shreeya.reciever;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
