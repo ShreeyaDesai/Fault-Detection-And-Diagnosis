@@ -1,4 +1,4 @@
-package com.example.priya.reciever;
+package com.example.shreeya.reciever;
 
 /**
  * Created by DELL 4U on 05-10-2015.
